@@ -14,7 +14,7 @@ namespace Varareanu
         {
             using (Window3D ex = new Window3D())
             {
-                ex.Run(30.0, 0.0);
+                ex.Run(60, 0.0);
             }
         }
     }
